@@ -1,0 +1,7 @@
+package com.burovytsky;
+
+import static org.junit.Assert.*;
+
+public class MainTest {
+
+}
