@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/burovytsky/job_parser.svg?branch=master)](https://travis-ci.org/burovytsky/job_parser)
+[![codecov](https://codecov.io/gh/burovytsky/job_parser/branch/master/graph/badge.svg)](https://codecov.io/gh/burovytsky/job_parser)
